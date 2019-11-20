@@ -1,0 +1,52 @@
+- SiriPrestamosUsers
+
+  -Users:
+  
+   -A142BFD312312332:
+    -Nombre: Gustavo Corrales;
+    -Email: gusta1812@hotmail.com;
+    -Codigo: A00012136;
+    -Reserva: true;
+    
+   -A142BFD312312332:
+    -Nombre: Gustavo Corrales;
+    -Email: gusta1812@hotmail.com;
+    -Codigo: A00012136;
+    -Reserva: false;
+    
+   -A142BFD312312332:
+    -Nombre: Gustavo Corrales;
+    -Email: gusta1812@hotmail.com;
+    -Codigo: A00012136;
+    -Reserva: false;
+  
+  -Prestamos: 
+   
+   -Lunes:
+    -A34B42344C5344:
+     -Estudiante:A142BFD312312332;
+     -HoraDeInicio:13:00;
+     -HoraFinal: 14:00;
+     -EquiposRequeridos: 
+      -B153253424:
+       -NombreDeEquipo: Cámara de vídeo SONY;
+       -Marca: SONY;
+     
+   -Martes:
+    -A34B42344C5344:
+     -Estudiante:A142BFD312312332;
+     -HoraDeInicio:13:00;
+     -HoraFinal: 14:00;
+     -EquiposRequeridos: 
+      -B153253424:
+       -NombreDeEquipo: Cámara de vídeo SONY;
+       -Marca: SONY;
+     
+     
+   +Miercoles
+   +Jueves
+   +Viernes
+   +Sabado
+
+    
+ 
